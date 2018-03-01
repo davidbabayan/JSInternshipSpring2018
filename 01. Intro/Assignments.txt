@@ -1,0 +1,14 @@
+Assignment 01
+Find difference between linking annonimouse function 
+to constant and naming function!
+
+Assignment 02
+Find a difference between window object and document object!
+
+Assignment 03
+Write a function that takes three arguments 
+(function(one, two, three)) and counts x for ax^2+bx+c=0!
+
+Assignment 04
+Write a JavaScript program to convert 
+temperatures to and from Celsius, Fahrenheit.
